@@ -32,10 +32,12 @@
       
     <img width="1281" height="370" alt="스크린샷 2026-09-03 오전 11 14 34" src="https://github.com/user-attachments/assets/05716c3b-ff4f-4612-83a4-b95d91769321" />
 
-    unigram vs BPE 를 잘 비교하였음
 
-      <img width="750" height="231" alt="스크린샷 2026-09-03 오전 11 18 33" src="https://github.com/user-attachments/assets/50eaac26-6b29-4372-9030-9ab67735a3c3" />
+<img width="855" height="233" alt="스크린샷 2026-09-03 오전 11 15 10" src="https://github.com/user-attachments/assets/3fc41598-1866-4f9b-a1fc-2f5c6b536dd9" />
 
+unigram vs BPE를 잘 비교하였음
+
+      
    에러는 아니지만 경고문에 대해서도 수정 전, 후 코드를 보강하였음
 
 - [ ]  **4. 회고를 잘 작성했나요?**
@@ -46,7 +48,7 @@
       
         <img width="738" height="221" alt="스크린샷 2026-09-03 오전 11 23 38" src="https://github.com/user-attachments/assets/50238e51-56b5-476b-86b9-b0bba460b4a8" />
 
-         <img width="855" height="233" alt="스크린샷 2026-09-03 오전 11 15 10" src="https://github.com/user-attachments/assets/3fc41598-1866-4f9b-a1fc-2f5c6b536dd9" />
+         
 
         
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
