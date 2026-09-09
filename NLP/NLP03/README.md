@@ -1,52 +1,64 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 황인성
-- 리뷰어 : 지승환
+- 리뷰어 : 조수아
 
 
 # PRT(Peer Review Template)
-- [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+- [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-    <img width="2027" height="956" alt="{2128D606-CDE3-4CAA-933F-29346E15FC53}" src="https://github.com/user-attachments/assets/b3b713d8-1221-42da-b654-4580a81d1c79" />
+     
+        <img width="1286" height="470" alt="스크린샷 2026-09-07 오후 12 09 20" src="https://github.com/user-attachments/assets/7edc7681-dc7f-472c-ba42-39d0e0302f5c" />
 
-- [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
+    
+- [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
     - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        <img width="1610" height="403" alt="{9BF213EC-EE3E-42BD-A84A-F0E0BE4603B3}" src="https://github.com/user-attachments/assets/0335b53b-4132-4f69-ad40-ba624e5a3df5" />
+     
+        <img width="359" height="603" alt="스크린샷 2026-09-07 오후 12 11 11" src="https://github.com/user-attachments/assets/b3a632a4-22e8-404b-83e0-fe0ece3afcc2" />
 
-- [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
+        
+- [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 
-        <img width="1837" height="775" alt="{658C9995-9145-4623-936C-1FC4EC03A80F}" src="https://github.com/user-attachments/assets/556aea97-ffb7-4799-a935-3b94ef7a2e31" />
+     
+        <img width="1152" height="336" alt="스크린샷 2026-09-07 오후 12 18 55" src="https://github.com/user-attachments/assets/e09f29c6-8e77-4ca8-9a61-bd33ddd6a86c" />
 
         
-- [x]  **4. 회고를 잘 작성했나요?**
+
+        
+- [ ]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-     
-    <img width="2018" height="365" alt="{5ABB9984-A79D-4890-AC3B-8A9E61CBC8A7}" src="https://github.com/user-attachments/assets/2811f4f5-1762-4dfc-86b2-f9a806ab6277" />
+
+      
+     <img width="1194" height="305" alt="스크린샷 2026-09-07 오후 12 13 38" src="https://github.com/user-attachments/assets/2c9392c2-d9a8-4ab9-b273-273e4af32995" />
 
         
-- [x]  **5. 코드가 간결하고 효율적인가요?**
+        
+- [ ]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-    <img width="1004" height="1071" alt="{0F93B7B6-06B2-4B34-8E22-DA2EE0FC821B}" src="https://github.com/user-attachments/assets/19fe2b96-7643-4bed-86d6-fdc0604cc5b4" />
+
+     <img width="671" height="784" alt="스크린샷 2026-09-07 오후 12 14 36" src="https://github.com/user-attachments/assets/366beb30-d950-44bb-8390-78dc3598c05c" />
+
+        
 
 
 # 회고(참고 링크 및 코드 개선)
 ```
-모델들 성능 비교와 이를 확인하기 위해 출력 결과를 확인하는 모습, 수정하는 모습이 잘 보였고
-이를 최종적으로 정리하여 직관적으로 보여준 것이 매우 이해하기 좋았음.
-코드가 간결하고 깔끔했으며, 흐름에 따라 읽기 편해 매우 좋았음
+# 리뷰어의 회고를 작성합니다.
+# 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
+# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
 ```
